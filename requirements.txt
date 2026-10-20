@@ -1,0 +1,4 @@
+PySide6>=6.5
+numpy>=1.26
+# Facultatif : améliore la compatibilité avec certains RAW (CR3, RAF…)
+# rawpy
