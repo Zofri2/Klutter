@@ -1,0 +1,31 @@
+CONTRAT DE LICENCE UTILISATEUR FINAL - KLUTTER
+Version 1.0  -  [DATE]
+
+IMPORTANT : ce texte est un modèle à faire relire avant publication. Remplace les mentions entre crochets.
+
+1. Éditeur
+Klutter est édité par [TON NOM OU RAISON SOCIALE], [ADRESSE OU VILLE, PAYS], contact : [ADRESSE E-MAIL].
+
+2. Licence
+L'éditeur te concède une licence personnelle, non exclusive, mondiale et gratuite pour installer et utiliser Klutter sur tes appareils, à titre privé ou professionnel. [OPTION : usage commercial autorisé / réservé à un usage non commercial - choisis.]
+
+3. Ce qui est interdit
+Tu ne peux pas : (a) vendre, louer ou sous-licencier le logiciel ; (b) le redistribuer sous une autre identité ou en retirer les mentions de droits ; (c) tenter d'en extraire le code source, sauf dans la mesure permise par la loi. [OPTION : la redistribution du programme d'installation non modifié est autorisée / interdite.]
+
+4. Propriété
+Klutter, son nom, son logo et son code restent la propriété de l'éditeur. Les composants tiers (voir 06_CREDITS_ET_LICENCES_TIERCES.md) restent soumis à leurs propres licences, qui prévalent pour ces composants.
+
+5. Tes photos
+Tes photos et fichiers t'appartiennent. Klutter ne les envoie nulle part. Il peut déplacer, copier, renommer ou exporter des fichiers uniquement à ta demande. Il est de ta responsabilité de conserver des sauvegardes de tes photos avant tout tri ou déplacement.
+
+6. Absence de garantie
+Klutter est fourni « en l'état », sans garantie d'aucune sorte, expresse ou implicite, notamment de qualité, d'adaptation à un usage particulier ou d'absence d'erreur. [Mention à adapter selon le droit applicable : les droits légaux du consommateur ne sont pas affectés.]
+
+7. Limitation de responsabilité
+Dans la limite permise par la loi, l'éditeur ne peut être tenu responsable des pertes de données, de fichiers ou de profits résultant de l'utilisation ou de l'impossibilité d'utiliser Klutter.
+
+8. Mises à jour et fin
+L'éditeur peut publier des mises à jour ou cesser de distribuer le logiciel. La licence prend fin si tu ne respectes pas ces conditions ; tu dois alors désinstaller Klutter.
+
+9. Droit applicable
+Ce contrat est soumis au droit [français]. En cas de litige, les tribunaux de [VILLE] sont compétents, sous réserve des règles protectrices du consommateur.
